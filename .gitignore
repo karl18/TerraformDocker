@@ -3,6 +3,5 @@ terraform.tfvars
 terraform.tfstate
 terraform.tfstate.backup
 *tf
-*/modules
-*/terraform
+modules/
 container.txt
